@@ -20,7 +20,8 @@ namespace ejersicios_CARS
             Console.WriteLine("Dame tu Edad: ");
             persona.Edad = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine(persona.resultado);
+            Console.WriteLine(persona.InfoPersona(persona.Nombre, persona.Edad));
+            Console.ReadKey();
             */
 
             /*-----------------------------------------PROBLEMA 3
@@ -38,10 +39,11 @@ namespace ejersicios_CARS
             Console.WriteLine("3._Multiplicar");
             Console.WriteLine("4._Dividir");
             calculadora.opciones = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine(calculadora.Operaciones());
+            Console.WriteLine(calculadora.Operaciones(calculadora.numero1,calculadora.numero2,calculadora.opciones));
+            Console.ReadKey();
             */
 
-            /*-----------------------------------------------PROBLEMA 4
+            //-----------------------------------------------PROBLEMA 4
 
             Rectangulo rectangulo = new Rectangulo();
 
@@ -52,7 +54,7 @@ namespace ejersicios_CARS
             rectangulo.rectanguloBase = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine(rectangulo.AreaTriangulo(rectangulo.rectanguloBase,rectangulo.rectanguloAltura));
-            */
+            Console.ReadKey();
 
             //----------------------------------------------PROBLEMA 5
 

@@ -9,12 +9,12 @@ namespace ejersicios_CARS.Clases
     internal class Rectangulo
     {
 
-        public double rectanguloAltura;
-        public double rectanguloBase;
+        public double rectanguloAltura { get; set; }
+        public double rectanguloBase { get; set; }
+        public double respuesta { get; set; }
 
         public double AreaTriangulo(double rectanguloAltura, double rectanguloBase)
         {
-            double respuesta;
 
             respuesta = rectanguloAltura * rectanguloBase;
 

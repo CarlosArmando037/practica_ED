@@ -6,3 +6,11 @@ C:\Users\elram\source\repos\ejersicios_CARS\ejersicios_CARS\obj\Debug\ejersicios
 C:\Users\elram\source\repos\ejersicios_CARS\ejersicios_CARS\obj\Debug\ejersicios_CARS.csproj.CoreCompileInputs.cache
 C:\Users\elram\source\repos\ejersicios_CARS\ejersicios_CARS\obj\Debug\ejersicios_CARS.exe
 C:\Users\elram\source\repos\ejersicios_CARS\ejersicios_CARS\obj\Debug\ejersicios_CARS.pdb
+C:\Users\elram\Desktop\ejersicios_CARS\ejersicios_CARS\bin\Debug\ejersicios_CARS.exe.config
+C:\Users\elram\Desktop\ejersicios_CARS\ejersicios_CARS\bin\Debug\ejersicios_CARS.exe
+C:\Users\elram\Desktop\ejersicios_CARS\ejersicios_CARS\bin\Debug\ejersicios_CARS.pdb
+C:\Users\elram\Desktop\ejersicios_CARS\ejersicios_CARS\obj\Debug\ejersicios_CARS.csproj.AssemblyReference.cache
+C:\Users\elram\Desktop\ejersicios_CARS\ejersicios_CARS\obj\Debug\ejersicios_CARS.csproj.SuggestedBindingRedirects.cache
+C:\Users\elram\Desktop\ejersicios_CARS\ejersicios_CARS\obj\Debug\ejersicios_CARS.csproj.CoreCompileInputs.cache
+C:\Users\elram\Desktop\ejersicios_CARS\ejersicios_CARS\obj\Debug\ejersicios_CARS.exe
+C:\Users\elram\Desktop\ejersicios_CARS\ejersicios_CARS\obj\Debug\ejersicios_CARS.pdb
